@@ -1,3 +1,2 @@
 My solutions to Project Euler questions in Python as I learn to code. Don't judge me.
-Well, except if it's the good kind of judgement like, 'Hey, that guy sure is swell!'. Because, you know, 
-I'm fine with being swell :)
+Well, except if it's the good kind of judgement like, 'Hey, that guy sure is swell!'. Because, you know, I'm fine with being swell :)
