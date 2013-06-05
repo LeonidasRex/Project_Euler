@@ -38,7 +38,7 @@ def sequence(n):
 
 '''
 The following code needs to be optimized when I'm better at programming :(
-It takes ~2-3 minutes but it can be knocked down to seconds or less if I get
+It takes ~90 seconds but it can be knocked down to seconds or less if I get
 rid of the global list that's eating memory for no reason. So dear future me:
 Compare term-by-term to see which is greater, rather than holding all numbers in list [ll]
 '''

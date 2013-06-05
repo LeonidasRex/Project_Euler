@@ -13,7 +13,7 @@ four million, find the sum of the even-valued terms.
 terms_i_want = [0]
 terms = [1,2]
 i=2
-n=31
+n=31 #last term in Fibonacci sequence that is below 4 million.
 while i <= n:
     terms.append(terms[i-1]+terms[i-2])
     i = i + 1
